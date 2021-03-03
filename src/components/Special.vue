@@ -33,6 +33,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end ikan -->
 
@@ -62,6 +65,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end kepiting -->
 
@@ -91,6 +97,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end lobster -->
 
@@ -120,6 +129,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end udang -->
 
@@ -147,6 +159,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end cumi -->
 
@@ -174,6 +189,9 @@
 						>Jakarta Timur</span
 					>
 				</div>
+				<a href="/details" class="stretched-link">
+					<!-- fake children -->
+				</a>
 			</div>
 			<!-- end sotong -->
 		</div>

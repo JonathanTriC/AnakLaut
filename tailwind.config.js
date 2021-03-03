@@ -22,7 +22,7 @@ module.exports = {
 			red: colors.red,
 			yellow: colors.amber,
 			green: { ...colors.green, 50: "#F9FFEA" },
-			blue: { ...colors.blue, 50: "#EAFFFC" },
+			blue: { ...colors.blue, 50: "#EAFFFC", 900: "#152C5B" },
 			indigo: { ...colors.indigo, 700: "#4F56F6" },
 			purple: colors.violet,
 			pink: colors.pink,
@@ -63,6 +63,7 @@ module.exports = {
 			72: "18rem",
 			80: "20rem",
 			96: "24rem",
+			100: "38rem",
 		},
 		animation: {
 			none: "none",

@@ -9,12 +9,21 @@
 .btn {
 	@apply border-none;
 }
+
 .btn-primary {
 	@apply bg-indigo-700;
 }
 
 .btn-primary:hover {
 	@apply bg-indigo-600;
+}
+
+.btn-secondary {
+	@apply bg-gray-400;
+}
+
+.btn-secondary:hover {
+	@apply bg-gray-300;
 }
 
 .input-ghost:focus {
@@ -33,4 +42,30 @@
 .scrollbar {
 	scrollbar-width: none; /* Firefox */
 	-ms-overflow-style: none; /* IE 10+ */
+}
+
+.stretched-link {
+	@apply absolute inset-0 z-10 cursor-pointer;
+}
+
+/* slider */
+.slider {
+	@apply flex my-4 flex-col;
+}
+
+.slider .preview {
+	@apply mb-2 px-4;
+	width: 365px;
+	height: 320px;
+}
+
+@screen md {
+	.slider {
+		@apply flex-row;
+	}
+
+	.slider .preview {
+		height: 609px;
+		width: 620px;
+	}
 }

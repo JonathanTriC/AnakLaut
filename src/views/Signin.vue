@@ -8,6 +8,7 @@
 		>
 			<div class="w-full h-100">
 				<a
+					href="/"
 					class="flex items-center w-32 mb-4 font-medium text-gray-900 title-font md:mb-0"
 				>
 					<svg
