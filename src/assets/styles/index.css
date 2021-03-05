@@ -54,8 +54,8 @@
 }
 
 .slider .preview {
-	@apply mb-2 px-4;
-	width: 365px;
+	@apply mb-2 px-3;
+	width: 345px;
 	height: 320px;
 }
 
