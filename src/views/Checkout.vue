@@ -55,11 +55,13 @@
 						Jl. Mirah No.76, RT.5/RW.7, Kedaung Kali Angke, <br />
 						KOTA JAKARTA BARAT - CENGKARENG, ID 11710
 					</p>
-					<form method="" action="/" class="flex-none my-1 md:my-0 ">
-						<button type="submit" class="btn btn-secondary px-10 md:mx-20">
-							Ubah
-						</button>
-					</form>
+
+					<button
+						type="submit"
+						class=" flex-none btn btn-secondary my-1 md:my-0 px-10 md:mx-20"
+					>
+						Ubah
+					</button>
 				</div>
 			</div>
 		</div>

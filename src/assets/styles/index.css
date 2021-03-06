@@ -23,7 +23,7 @@
 }
 
 .btn-secondary:hover {
-	@apply bg-gray-300;
+	@apply bg-gray-500;
 }
 
 .input-ghost:focus {

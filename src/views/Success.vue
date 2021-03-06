@@ -46,7 +46,7 @@
 		</div>
 
 		<p
-			class="flex items-center justify-center text-center text-xl font-base text-gray-300 my-6 mx-3"
+			class="flex items-center justify-center text-center text-xl font-base text-gray-400 my-6 mx-3"
 		>
 			Kami akan mengirim email untuk mengonfirmasi <br />
 			pesanan anda. Silahkan tunggu beberapa saat,
