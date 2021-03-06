@@ -120,12 +120,12 @@
 			</div>
 
 			<div class="flex flex-wrap py-4">
-				<form method="" action="/" class="flex-none my-2">
+				<form method="" action="" class="flex-none my-2">
 					<button type="submit" class="btn btn-secondary px-6">
 						Kirim Pesan
 					</button>
 				</form>
-				<form method="" action="/" class="flex-none my-2">
+				<form method="" action="/checkout" class="flex-none my-2">
 					<button type="submit" class="btn btn-primary px-6 ml-4 md:ml-6">
 						Beli Sekarang
 					</button>

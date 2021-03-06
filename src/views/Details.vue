@@ -10,7 +10,7 @@
 			<!-- start komen 1 -->
 			<div class="pt-2 mx-3 md:mx-14">
 				<div
-					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-80 md:h-52 rounded-lg w-full bg-white border border-gray-100"
+					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-auto rounded-lg w-full bg-white border border-gray-100"
 				>
 					<div class="flex mx-2">
 						<img class="hidden md:block w-40 h-40 p-5" :src="tokoImg" alt="" />
@@ -45,7 +45,7 @@
 			<!-- start komen 2 -->
 			<div class=" mx-3 md:mx-14">
 				<div
-					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-80 md:h-52 rounded-lg w-full bg-white border border-gray-100"
+					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-auto rounded-lg w-full bg-white border border-gray-100"
 				>
 					<div class="flex mx-2">
 						<img class="hidden md:block w-40 h-40 p-5" :src="tokoImg" alt="" />
@@ -80,7 +80,7 @@
 			<!-- start komen 3 -->
 			<div class=" mx-3 md:mx-14">
 				<div
-					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-80 md:h-52 rounded-lg w-full bg-white border border-gray-100"
+					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-auto rounded-lg w-full bg-white border border-gray-100"
 				>
 					<div class="flex mx-2">
 						<img class="hidden md:block w-40 h-40 p-5" :src="tokoImg" alt="" />
@@ -115,7 +115,7 @@
 			<!-- start komen 4 -->
 			<div class=" mx-3 md:mx-14">
 				<div
-					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-80 md:h-52 rounded-lg w-full bg-white border border-gray-100"
+					class="flex-shrink-0 my-6 mx-2 md:mx-4 relative overflow-hidden h-auto rounded-lg w-full bg-white border border-gray-100"
 				>
 					<div class="flex mx-2">
 						<img class="hidden md:block w-40 h-40 p-5" :src="tokoImg" alt="" />
