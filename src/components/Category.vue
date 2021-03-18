@@ -1,13 +1,13 @@
 <template>
 	<div class="w-full h-auto bg-gray-50">
-		<h1 class="flex text-3xl pl-10 md:pl-16 pt-8 font-semibold">
+		<h1 class="flex text-3xl pl-10 md:pl-12 pt-8 font-semibold">
 			Kategori
 		</h1>
 
 		<div class="pt-2 mx-5 md:mx-10 flex flex-wrap">
 			<!-- start ikan -->
 			<div
-				class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs bg-white"
+				class="flex-shrink-0 m-3 relative overflow-hidden rounded-lg max-w-xs bg-white"
 			>
 				<div class="relative flex items-center justify-center">
 					<img class="relative w-72 h-40 my-16" :src="ikan" alt="" />
@@ -20,7 +20,7 @@
 
 			<!-- start kepiting -->
 			<div
-				class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs bg-white"
+				class="flex-shrink-0 m-3 relative overflow-hidden rounded-lg max-w-xs bg-white"
 			>
 				<div class="relative flex items-center justify-center">
 					<img class="relative w-72 h-40 my-16" :src="kepiting" alt="" />
@@ -33,7 +33,7 @@
 
 			<!-- start lobster -->
 			<div
-				class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs bg-white"
+				class="flex-shrink-0 m-3 relative overflow-hidden rounded-lg max-w-xs bg-white"
 			>
 				<div class="relative flex items-center justify-center">
 					<img class="relative w-72 h-40 my-16" :src="lobster" alt="" />
@@ -46,7 +46,7 @@
 
 			<!-- start kerang -->
 			<div
-				class="flex-shrink-0 m-6 relative overflow-hidden rounded-lg max-w-xs bg-white"
+				class="flex-shrink-0 m-3 relative overflow-hidden rounded-lg max-w-xs bg-white"
 			>
 				<div class="relative flex items-center justify-center">
 					<img class="relative w-72 h-40 my-16" :src="kerang" alt="" />

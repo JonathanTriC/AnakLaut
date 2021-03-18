@@ -45,7 +45,7 @@
 				>
 					Daftarkan akun Anda
 				</h1>
-				<form class="mt-6" action="#" method="POST">
+				<form class="mt-6" action="#" method="">
 					<div>
 						<label
 							class="block text-sm font-medium leading-relaxed tracking-tighter text-gray-700"
@@ -92,12 +92,14 @@
 							required
 						/>
 					</div>
-					<button
-						type="submit"
-						class="block w-full px-4 py-3 mt-6 font-semibold text-white transition duration-500 ease-in-out transform bg-indigo-700 rounded-lg hover:bg-indigo-600 hover:to-black focus:outline-none  ring-offset-current ring-offset-2 "
-					>
-						Daftar
-					</button>
+					<form action="/">
+						<button
+							type="submit"
+							class="block w-full px-4 py-3 mt-6 font-semibold text-white transition duration-500 ease-in-out transform bg-indigo-700 rounded-lg hover:bg-indigo-600 hover:to-black focus:outline-none  ring-offset-current ring-offset-2 "
+						>
+							Daftar
+						</button>
+					</form>
 				</form>
 				<hr class="w-full my-6 border-gray-300" />
 				<div class="flex justify-enter">

@@ -1,6 +1,6 @@
 <template>
 	<div class="w-full h-auto">
-		<h1 class="flex text-3xl pl-6 md:pl-16 pt-8 font-semibold">
+		<h1 class="flex text-3xl pl-6 md:pl-16 pt-8 font-semibold" id="scroll">
 			Khusus untuk kamu
 		</h1>
 

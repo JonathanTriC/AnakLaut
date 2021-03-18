@@ -68,38 +68,40 @@
 						</div>
 					</div>
 					<div class="flex-none hidden md:block">
-						<button class="btn btn-square btn-ghost">
-							<svg
-								width="27"
-								height="28"
-								viewBox="0 0 27 28"
-								fill="none"
-								xmlns="http://www.w3.org/2000/svg"
-							>
-								<circle
-									r="6.41074"
-									transform="matrix(0.689278 -0.724497 0.689278 0.724497 10.8411 11)"
-									stroke="#C4C4C4"
-									stroke-width="2"
-								/>
-								<line
-									x1="1"
-									y1="-1"
-									x2="8.36094"
-									y2="-1"
-									transform="matrix(0.689278 0.724497 -0.689278 0.724497 15.1427 16.0865)"
-									stroke="#C4C4C4"
-									stroke-width="2"
-									stroke-linecap="round"
-								/>
-							</svg>
-						</button>
+						<form action="/search" method="">
+							<button class="btn btn-square btn-ghost">
+								<svg
+									width="27"
+									height="28"
+									viewBox="0 0 27 28"
+									fill="none"
+									xmlns="http://www.w3.org/2000/svg"
+								>
+									<circle
+										r="6.41074"
+										transform="matrix(0.689278 -0.724497 0.689278 0.724497 10.8411 11)"
+										stroke="#C4C4C4"
+										stroke-width="2"
+									/>
+									<line
+										x1="1"
+										y1="-1"
+										x2="8.36094"
+										y2="-1"
+										transform="matrix(0.689278 0.724497 -0.689278 0.724497 15.1427 16.0865)"
+										stroke="#C4C4C4"
+										stroke-width="2"
+										stroke-linecap="round"
+									/>
+								</svg>
+							</button>
+						</form>
 					</div>
 					<!-- end search box -->
 
 					<div class="flex inline-block my-2">
 						<!-- start icon cart -->
-						<form action="#">
+						<form action="/cart">
 							<button type="submit" class="btn btn-square btn-ghost">
 								<svg
 									width="35"

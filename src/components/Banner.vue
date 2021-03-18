@@ -6,6 +6,7 @@
 		>
 			<!-- start bergabung -->
 			<div
+				data-aos="fade-left"
 				class="flex md:w-auto -mx-5 md:mx-9 py-3 md:py-10 bg-cover card bg-content-100"
 			>
 				<div class="card bg-blue-50 lg:card-side">
@@ -16,7 +17,9 @@
 							Untuk Masa Depan Yang Cerah
 						</h2>
 						<div class="card-actions">
-							<button class="btn btn-primary rounded-full px-10">Bergabung</button>
+							<form action="/Signin">
+								<button class="btn btn-primary rounded-full px-10">Bergabung</button>
+							</form>
 						</div>
 					</div>
 					<!-- end content -->
@@ -42,9 +45,11 @@
 							Olah Ikan dengan Lebih Bijak
 						</h2>
 						<div class="card-actions">
-							<button class="btn btn-primary rounded-full ml-2 px-10">
-								Mulai Belanja
-							</button>
+							<form action="#scroll">
+								<button class="btn btn-primary rounded-full ml-2 px-10">
+									Mulai Belanja
+								</button>
+							</form>
 						</div>
 					</div>
 					<!-- end content -->

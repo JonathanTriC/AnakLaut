@@ -165,11 +165,6 @@
 				<div
 					class="w-12 h-auto p-4 mr-4 flex items-center justify-center bg-white border-2 border-gray-200 rounded-lg"
 				>
-					<span class="text-lg font-semibold text-gray-200">3</span>
-				</div>
-				<div
-					class="w-12 h-auto p-4 mr-4 flex items-center justify-center bg-white border-2 border-gray-200 rounded-lg"
-				>
 					<span class="text-lg font-medium text-gray-200">></span>
 				</div>
 			</div>
