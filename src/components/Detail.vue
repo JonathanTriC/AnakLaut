@@ -23,7 +23,7 @@
 			class="flex-1 md:sticky md:top-32 md:mr-48 md:px-10 md:py-6 md:h-100 mx-4 my-4 w-auto"
 		>
 			<div class="hidden md:block">
-				<h2 class="text-5xl text-blue-900 font-semibold mb-5">
+				<h2 class="text-3xl text-blue-900 font-semibold mb-5">
 					Kepiting Mantul
 				</h2>
 				<div class="relative pt-3 pb-6">
@@ -48,7 +48,7 @@
 						>50% Off</span
 					>
 				</div>
-				<p class="text-5xl font-medium text-blue-700">IDR 50.000/kg</p>
+				<p class="text-3xl font-medium text-blue-700">IDR 50.000/kg</p>
 			</div>
 
 			<div class="py-6">
@@ -121,7 +121,7 @@
 
 			<div class="flex flex-wrap py-4">
 				<button type="submit" class=" flex-none my-2 btn btn-secondary px-6">
-					Kirim Pesan
+					Pesan
 				</button>
 				<form method="" action="/cart" class="flex-none my-2">
 					<button type="submit" class="btn btn-primary px-6 ml-4 md:ml-6">
