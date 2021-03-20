@@ -23,7 +23,7 @@
 			class="flex-1 md:sticky md:top-32 md:mr-48 md:px-10 md:py-6 md:h-100 mx-4 my-4 w-auto"
 		>
 			<div class="hidden md:block">
-				<h2 class="text-3xl text-blue-900 font-semibold mb-5">
+				<h2 class="text-4xl text-blue-900 font-semibold mb-5">
 					Kepiting Mantul
 				</h2>
 				<div class="relative pt-3 pb-6">
