@@ -7,7 +7,7 @@
 		<div class="flex-1">
 			<div class="slider">
 				<div class="preview">
-					<div class="item rounded-lg w-80 md:w-100 h-full overflow-hidden">
+					<div class="item rounded-lg w-80 md:w-100 h-full overflow-hidden md:mx-20">
 						<img
 							:src="detailsImg1"
 							alt=""
