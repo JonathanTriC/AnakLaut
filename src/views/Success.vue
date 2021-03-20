@@ -1,5 +1,5 @@
 <template>
-	<div class="success h-screen bg-gray-100">
+	<div class="success md:h-auto h-screen bg-gray-100">
 		<!-- start logo -->
 		<a href="/">
 			<div class="flex items-center justify-center w-auto py-6">

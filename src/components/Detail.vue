@@ -7,7 +7,7 @@
 		<div class="flex-1">
 			<div class="slider">
 				<div class="preview">
-					<div class="item rounded-lg w-80 md:w-100 h-full overflow-hidden md:mx-20">
+					<div class="item rounded-lg w-80 md:w-100 h-full overflow-hidden">
 						<img
 							:src="detailsImg1"
 							alt=""
@@ -20,7 +20,7 @@
 
 		<!-- Start section kiri -->
 		<div
-			class="flex-1 md:sticky md:top-32 md:mr-48 md:px-10 md:py-6 md:h-100 mx-4 my-4 w-auto"
+			class="flex-1 md:sticky md:top-24 md:mr-48 md:px-10 md:py-6 md:h-100 mx-4 my-4 w-auto"
 		>
 			<div class="hidden md:block">
 				<h2 class="text-4xl text-blue-900 font-semibold mb-5">
